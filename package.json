@@ -1,6 +1,6 @@
 {
   "name": "countdown-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple countdown utility to get remaining days, hours, minutes, and seconds",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,7 +12,13 @@
     "build": "tsc",
     "prepublishOnly": "npm run build"
   },
-  "keywords": ["countdown", "timer", "typescript", "nextjs", "time"],
+  "keywords": [
+    "countdown",
+    "timer",
+    "typescript",
+    "nextjs",
+    "time"
+  ],
   "author": "Altafsk99",
   "license": "MIT"
 }
