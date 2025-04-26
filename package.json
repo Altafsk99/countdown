@@ -13,6 +13,6 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": ["countdown", "timer", "typescript", "nextjs", "time"],
-  "author": "Your Name",
+  "author": "Altafsk99",
   "license": "MIT"
 }
