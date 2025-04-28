@@ -8,9 +8,9 @@ Simple countdown utility to get remaining days, hours, minutes, and seconds till
 npm install countdown
 
 
-import { getRemainingDDHHMMSS } from "countdown";
+import { countDown } from "countdown";
 
-const result = getRemainingDDHHMMSS("2025-05-01T00:00:00Z");
+const result = countDown("2025-05-01T00:00:00Z");
 
 console.log(result);
 // Output:

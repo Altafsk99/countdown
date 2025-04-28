@@ -1,5 +1,5 @@
 {
-  "name": "react-timer",
+  "name": "javascript-timer",
   "version": "1.0.2",
   "description": "Simple countdown utility to get remaining days, hours, minutes, and seconds",
   "main": "dist/index.js",
