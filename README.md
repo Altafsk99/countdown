@@ -5,10 +5,10 @@ Simple countdown utility to get remaining days, hours, minutes, and seconds till
 ## Installation
 
 ```bash
-npm install countdown
+npm install javascript-timer
 
 
-import { countDown } from "countdown";
+import { countDown } from "javascript-timer";
 
 const result = countDown("2025-05-01T00:00:00Z");
 
