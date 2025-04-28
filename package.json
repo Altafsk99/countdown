@@ -1,6 +1,6 @@
 {
   "name": "javascript-timer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple countdown utility to get remaining days, hours, minutes, and seconds",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
